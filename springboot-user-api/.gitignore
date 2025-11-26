@@ -1,0 +1,27 @@
+# Maven build
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Environment files
+.env
+
+# Backup files
+*.swp
+*.bak
+*.tmp
+
+# Docker
+*.pid
